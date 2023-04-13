@@ -1,2 +1,7 @@
+
 # summerpicker.ts
-🏝 pick pages of website and sum as one summary page .
+
+~~~
+🏝 pick main part of pages on a website and sum as one summary page .
+~~~
+
